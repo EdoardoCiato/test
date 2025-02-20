@@ -2,4 +2,4 @@
 
 ## Subtitle
 
-$this is written in **bold**$
+this is written in **bold**
