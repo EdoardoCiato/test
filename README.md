@@ -2,4 +2,4 @@
 
 ## Subtitle
 
-$x^2$
+this is written in **bold**
